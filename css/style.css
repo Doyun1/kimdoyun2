@@ -1,0 +1,13 @@
+.box{
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	position: absolute;
+
+}
+
+
+/*
+postion: relative; -상대값
+postion: absoulte; - 절대값
+postion: fixed; - 고정 
